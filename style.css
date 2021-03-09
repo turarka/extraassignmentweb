@@ -1,0 +1,25 @@
+html {
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-image: url(https://avatars.mds.yandex.net/get-zen_doc/3415135/pub_5f0f6af8d8c110717984679b_5f100e336c00b108edda3684/scale_1200);
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    color: #fff;
+}
+
+.container {
+    background: #595975;
+    border-radius: 10px;
+}
+hr {
+    margin-left: 0;
+    width: 80px;
+    background: #fff;
+}
